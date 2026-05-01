@@ -26,6 +26,7 @@ Use this skill to produce a 15-second 9:16 Pure UGC Testimonial ad for a mobile 
 > If any invariant fails, regenerate the creative pack with tighter rules instead of rendering. Video quota is scarce — don't burn it on a bad plan.
 
 ## Before you start
+Orcool MCP server must be connected. Do NOT start a local OAuth flow from inside the agent — localhost callbacks are not reachable in Cowork or claude.ai. If the connector is not connected, instruct the user to set it up there and stop.
 
 You'll need a brand in Orcool with populated signals: at least 1 competitor, 1 target audience, 3+ insights, and 1+ inspiring reference. If signals are missing, fill them first via `studio_create_competitor`, `studio_create_target_audience`, `studio_create_insight`, and `studio_create_inspiring_reference`, then come back.
 
