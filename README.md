@@ -2,9 +2,6 @@
 
 The Orcool plugin brings UGC ad production directly into your Cowork workflow by connecting your agent to [Orcool](https://app.orcool.com) — brands, avatars, footages, concepts, creative packs, and video rendering — through a single MCP server and a focused skill.
 
-> [!NOTE]
-> Authentication uses OAuth at [mcp.orcool.com](https://mcp.orcool.com); no manual API keys, no env variables. You authorize once on first use.
-
 ## Features
 
 - **Generate Pure UGC Testimonial ads**
@@ -38,7 +35,6 @@ The Orcool plugin brings UGC ad production directly into your Cowork workflow by
    orcool-org/agent-plugin
    ```
 4. Find **Orcool** in the list (**Personal** tab → **agent-plugin** sub-tab), click **Install**, and approve the requested permissions.
-5. **Authorize Orcool.** On first skill use, Cowork opens your browser for OAuth at [mcp.orcool.com](https://mcp.orcool.com). Sign in with your Orcool account and approve the connection.
 
 ### Other MCP clients
 
@@ -58,7 +54,7 @@ Skills shipped in this plugin are Cowork-specific and won't activate in other cl
 
 ## Prompting your MCP client
 
-Once authorized, prompt your agent in natural language. The skill auto-triggers on UGC-ad phrasing and walks the full pipeline.
+Once installed, prompt your agent in natural language. The skill auto-triggers on UGC-ad phrasing and walks the full pipeline.
 
 > [!NOTE]
 > Make sure the target brand exists in Orcool with at least one competitor, one target audience, three insights, and one inspiring reference. Without populated signals, concept generation falls back to vague defaults.
