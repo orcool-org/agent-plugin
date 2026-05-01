@@ -29,12 +29,15 @@ The Orcool plugin brings UGC ad production directly into your Cowork workflow by
 ### Claude Cowork
 
 1. Open **Claude Desktop** and switch to the **Cowork** tab.
-2. Click **Customize** in the left sidebar, then **Plus** icon.
+2. Click **Customize** in the left sidebar, then the **Plus** icon.
 3. Click **Create plugin** → **Add marketplace** in the dropdown and paste the marketplace source:
    ```
    orcool-org/agent-plugin
    ```
 4. Find **Orcool** in the list (**Personal** tab → **agent-plugin** sub-tab), click **Install**, and approve the requested permissions.
+5. Open **Customize** again, then select the **Orcool** plugin in the left sidebar.
+6. Click **Connectors**, then select the **Orcool** connector.
+7. Click **Install** or **Connect** and follow the instructions to complete authorization.
 
 ### Other MCP clients
 
