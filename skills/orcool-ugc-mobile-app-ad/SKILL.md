@@ -3,7 +3,7 @@ name: orcool-ugc-mobile-app-ad
 description: >-
   Produces a 15-second 9:16 Pure UGC Testimonial ad for a mobile app — one
   AI avatar narrating over 4 scenes with an animated packshot and an
-  app-screen B-roll, rendered entirely through Orcool Studio MCP tools.
+  app-screen B-roll, rendered entirely through Orcool MCP tools.
   Use when the user asks for a "UGC testimonial", "talking-head ad", or
   describes the output (e.g. "a person reviewing my app for Meta/TikTok").
 ---
