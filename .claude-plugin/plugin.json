@@ -1,0 +1,21 @@
+{
+  "name": "orcool",
+  "version": "1.0.0",
+  "description": "Brings Orcool MCP server and Skills for marketing workflows.",
+  "author": {
+    "name": "Orcool",
+    "email": "team@orcool.com",
+    "url": "https://app.orcool.com"
+  },
+  "homepage": "https://app.orcool.com",
+  "license": "MIT",
+  "keywords": [
+    "orcool",
+    "ugc",
+    "testimonial",
+    "mobile-ads",
+    "creative",
+    "video",
+    "marketing"
+  ]
+}

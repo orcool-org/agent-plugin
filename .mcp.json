@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Orcool": {
+      "type": "http",
+      "url": "https://mcp.orcool.com"
+    }
+  }
+}
